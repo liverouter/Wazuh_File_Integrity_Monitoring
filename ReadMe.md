@@ -93,13 +93,3 @@ Screenshots and supporting evidence can be organised in the repository to demons
 This exercise improved my practical understanding of Wazuh, endpoint monitoring, file integrity checks, security alert investigation, and the use of SIEM tools in a SOC environment.
 
 It also demonstrated the importance of reviewing alerts in context, as file changes do not automatically indicate malicious activity.
-
-## Disclaimer
-
-This repository is for educational and cybersecurity learning purposes. The lab used an isolated virtual environment and a course-provided Wazuh server.
-
-Screenshots and evidence should be reviewed for sensitive information before publication. Private identifiers, credentials, tokens, and unnecessary system details should not be shared publicly.
-
-## Author
-
-Cybersecurity learner focused on SOC operations, endpoint monitoring, and security analysis.
